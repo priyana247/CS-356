@@ -9,7 +9,7 @@ public class Question {
 	private String question; 
 	//constructor
 	public Question(int aueType, String question) { 
-		this.queType = aueType;
+		this.queType = queType;
 		this.question = question;
 	}
 	// accessor methods 
