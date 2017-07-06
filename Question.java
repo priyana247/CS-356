@@ -3,7 +3,8 @@
  * Due: 07/05/2017
  */
 public class Question {
-	// queType, 1 = true/false, 2 = multiple choice
+	// queType: 1 = true/false,
+	// queTyp :2 = multiple choice
 	private int queType; 
 	// questions 
 	private String question; 
